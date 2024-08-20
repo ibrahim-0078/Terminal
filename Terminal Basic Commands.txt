@@ -1,0 +1,37 @@
+Terminal Basic Commands => install git bash
+
+1 => ls => list files => show my files
+2 => pwd => print working directory => where am i ?
+3 => clear => clear screen
+
+Inside & Outside Commands 
+
+4 => cd => change directory => cd folder name => for folder to subfolder => cd folder name/sub folder name
+5 => cd .. => one step back => for 2 step back cd ../..
+
+Paths
+
+7 => Relative Path => cd folder name/sub folder name
+8 => Absolute Path => add / before folder name/subfolder  =>  cd /folder name/sub folder name
+9 => cd tild(~) => home directory
+10 => cd / => root directory
+
+Manual Commands => give information about commands like man ls => man pwd => man clear => man cd etc
+
+Flags => flags are characters that we pass with commands to modify their behaviour
+
+with flags => we explore additional information => ls -l => ls -a => ls -la etc
+
+Making Directories
+
+11 => mkdir => make new directory or new folder
+
+Touch Command => used to create new files
+
+12 => touch file name like html,css,js etc
+
+Deleting files and folders 
+
+13 => rm => removes files
+14 => rmdir => removes empty folders
+15 => rm -rf(-rf are individual flags) => removes any folders which has files
